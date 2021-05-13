@@ -61,7 +61,7 @@ public class Smartphone {
 		
 	}
 	/**
-         * Prepara una trampa electrica en las coordenadas indicadas
+         * Prepara una trampa electrica en las coordenadas indicadas.
          * 
          * @param coor Las coordenadas del sitio donde se colocará la trampa.
          * @see findRoadRunner#locateRoadRunner 

@@ -15,7 +15,7 @@ public class Persecucion {
 		// Preparamos la trampa
                 miACMESmartphone.prepareTrap(coordenadas);
                 
-                // Golpear al correcaminos con el voltaje deseado.
+                // Golpear al correcaminos con el voltaje deseado..
 		miACMESmartphone.zapRoadRunner(40);
 
 	}
